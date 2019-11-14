@@ -39,6 +39,39 @@ a slight, but visible, effect on crime rates.
 While the FBI reported numbers are available, I have not been able to find any efforts to independently reproduce the FBI numbers, or demonstrate changes in crime over this period of time in a digestible fashion. Also, as a former Houstonian myself, I am aware of the concern for the crime rate within the city. Mayor Turner assumed his position in 2016. His predecessor, Annise Parker, held the title from 2010-2016. I intend to gather the available crime data for the city from 2009 until as recent as possible into 2019. With this data, I will look to not only see if the most recent numbers bear out, but attempt to track the rate of crime change with respect to reported city populations in a time series. Also, in regards to the position that more police officers is the solution, I will seek to chart police officer employment over the same time period. The hope is to uncover the trends of crime rate, population, and staffing of police officers from 2009 through 2019. The goal will be to bring an independent investigation into the conversation and visualize relevant trends in order to help contextualize the issue of crime in the city of Houston.
 
 
+## Research Questions
+
+This analysis will attempt to answer five specific questions.
+
+**RQ1.** To date, has the overall crime rate in Houston, TX increased or decreased since Mayor Turner's appointment in 2016?  
+**RQ2.** To date, has the violent crime rate in Houston, TX increased or decreased since Mayor Turner's appointment in 2016?  
+**RQ3.** Has the trend in overall crime rate in Houston, TX inverted during Mayor Turner's tenure?  
+**RQ4.** Has the trend in violent crime rate in Houston, TX inverted during Mayor Turner's tenure?  
+**RQ5.** Have fluctuations in police officer to population ratios correlated with violent crime rate trends?
+
+No coverage of the mayoral race to date has cited any observation that more police has historically induced reduced crime in the city. Buzbee is on record stating that crime is up and that more police officers will address that issue, thereby making the city safer. I interpret that logic would imply an assumption that the officer:population ratio has dropped below some threshold. I intend to let the reported numbers make a case here.
+
+
+## Related Work
+
+Published independent research into crime and policing within Houston is sparse. UCR reported numbers are the deferred-to source in most reporting, outside of where city officials provide statements on the record. A [2018 article](https://www.chron.com/houston/article/Houston-police-unveil-March-on-Crime-with-policy-12624886.php) cited Mayor Turner saying "I think we can all agree that HPD is understaffed," during a press conference. The same article mentions that Houston's 5100 officers is 300 more than the city had a decade prior.
+
+An [article by Samantha Ketterer of the Houston Chronicle](https://www.chron.com/news/houston-texas/houston/article/Houston-police-to-announce-2018-crime-rate-13566844.php) published in late January of 2019 goes on to make similar claims to the FBI report to conclude that crime had dropped in the city. 
+
+>Violent crime decreased in Houston by about 10.4 percent last year despite a slight increase in homicides, police said.
+>
+>The reduction marks a continuing downward movement of murders, rapes, robberies and aggravated assaults over the past five years.
+>
+>Acevedo also touted double digit decreases in robberies and aggravated assaults in 2018, as well as reductions in nonviolent crimes, although to less drastic extents. Burglaries, thefts and auto thefts declined by a combined 2.8 percent from 2017 to 2018.
+
+Police Chief Art Acevedo was also quoted as saying “We might not get them all, but I promise in the long-term, we’re trending in the right direction.” Later statements in the piece would also imply a shortage of officers.
+
+Of the research freely available on this subject, a [2001 paper by Anthony A. Braga Ph.D.](https://www.jstor.org/stable/1049870) reviewed hot spot policing methods used in various parts of the U.S. The paper references a quasi-experiment<sup>1</sup> in Houston where the hot spots were defined as the seven highest crime beats. A summary of that quasi-experiment can be found at [https://cebcp.org/evidence-based-policing/the-matrix/neighborhood/neighborhood-caeti-1999/](https://cebcp.org/evidence-based-policing/the-matrix/neighborhood/neighborhood-caeti-1999/). Braga advises a cautionary interpretation of the Houston Targeted Beat Program results as, for one reason, "the analyses did not directly measure whether observed changes in treatment beats were significantly different from observed changes in control beats." Simplifying the caveats, success in reducing index crimes was observed using high-visibility patrol treatments, while mixed results were observed using zero-tolerance policing treatments. The paper offered the following overall interpretation of the results:
+
+>Nevertheless, the results of this study can be broadly taken to support the position that focused police enforcement efforts can be effective in reducing crime at hot spots.  
+
+To summarize this section, a nearly 20-year-old assessment found certain policing strategies effective for crime reduction, though it is not affirmed if said strategies require more officers to implement than traditional strategies. It implies that more targeted use of officer hours was applied to high-crime areas. Statements from city officials have cited a shortage of officers, yet claim crime has overall been decreasing for atleast 5 to 6 years. This evidence would lead me to expect to see crime rates dropping while officer:population ratios do not increase, all while overall officer employment increases.
+
 ## Data
 
 Unless stated otherwise, the data to be used for this analysis is made available for use under the U.S. Public Domain under the category of U.S. Government Works, found at [https://www.usa.gov/government-works](https://www.usa.gov/government-works).
@@ -94,10 +127,12 @@ The secondary data source cites UCR reported data as its source, but also displa
 
 The availability of data sources is a primary concern with this project. The UCR and US Census Bureau are both undergoing transitions, which may put some APIs in flux. Also, while much of the data has been located, it is not guaranteed that all sources will be uniform in their structure. This could impact the data collection, cleaning, processing, and interpretation steps of the analysis. In the event some of the aforementioned issue arise, backup plans are in place for some of these scenarios.
 
-## Sources
+## Sources & References
 * https://www.fbi.gov/services/cjis/ucr/nibrs (accessed 11/6/2019)
 * https://www.houstonpublicmedia.org/articles/news/politics/2019/11/06/350955/incumbent-mayor-sylvester-turner-challenger-tony-buzbee-head-to-runoff/ (accessed 11/6/2019)
 * https://thecrimereport.org/2019/10/10/houston-murders-up-crime-a-mayors-race-issue/ (accessed 11/6/2019)
 * https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-mayoral-foes-debate-city-finances-14501858.php (accessed 11/6/2019)
 * https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-6 (accessed 11/6/2019)
 * https://www.ucrdatatool.gov/faq.cfm (accessed 11/7/2019)
+
+[1] Caeti, T. J. (1999). Houston’s targeted beat program: A quasi-experimental test of police patrol strategies (Doctoral dissertation, Sam Houston State University)
