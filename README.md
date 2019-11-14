@@ -5,7 +5,7 @@ Crime Analysis over Time in the City of Houston (CATCH)
 On 11/05/19, the city of Houston residents mobilized to the polls to vote on the city's next Mayor. The race's front-runners, incumbent Mayor Sylvester Turner and challenger Tony Buzbee, have engaged in debate over a range of topics, with Houston's crime rate prominent among them. Buzbee, in particular, has made crime a focal point of his campaign. The move has certainly not hurt his chances, as the two are now headed into a runoff election to conclude the race.
 
 <p align="center">
-  <img src="https://www.dailyinterlake.com/apps/pbcsi.dll/storyimage/DI/20191105/AP/311059900/AR/0/AR-311059900.jpg" width="300" height="219">
+  <img src="https://raw.githubusercontent.com/adrianmt18/CATCH/master/turner-buzbee.jpg" width="300" height="219">
   <sub><i><br>Incumbent Houston Mayor Sylvester Turner (right) and attorney Tony Buzbee on September 2, 2019 at a Houston, TX<br> mayoral candidate forum. (Karen Warren/Houston Chronicle via AP)</i></sub>
 </p>
 
