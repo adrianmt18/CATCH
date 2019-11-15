@@ -41,13 +41,22 @@ While the FBI reported numbers are available, I have not been able to find any e
 
 ## Research Questions
 
-This analysis will attempt to answer five specific questions.
+This analysis will attempt to answer five specific questions. 
 
 **RQ1.** To date, has the overall crime rate in Houston, TX increased or decreased since Mayor Turner's appointment in 2016?  
 **RQ2.** To date, has the violent crime rate in Houston, TX increased or decreased since Mayor Turner's appointment in 2016?  
 **RQ3.** Has the trend in overall crime rate in Houston, TX inverted during Mayor Turner's tenure?  
 **RQ4.** Has the trend in violent crime rate in Houston, TX inverted during Mayor Turner's tenure?  
 **RQ5.** Have fluctuations in police officer to population ratios correlated with violent crime rate trends?
+
+It is important to note that the FBI's UCR definition of violent crime will be applied, which includes the four specific offenses listed below.
+
+| UCR Offense Code | Offense Description | Crime Against |
+| :---: | :--- | :--- |
+| 13A | Aggravated Assault | Person |
+| 11A | Forcible Rape | Person |
+| 09A | Murder & Nonnegligent Manslaughter | Person |
+| 120 | Robbery | Property |
 
 No coverage of the mayoral race to date has cited any observation that more police has historically induced reduced crime in the city. Buzbee is on record stating that crime is up and that more police officers will address that issue, thereby making the city safer. I interpret that logic would imply an assumption that the officer:population ratio has dropped below some threshold. I intend to let the reported numbers make a case here.
 
@@ -123,9 +132,26 @@ Since the data here is recorded for federal government reporting purposes and is
 
 The secondary data source cites UCR reported data as its source, but also displays employment numbers for years not available in the primary source (2009-2011). A few sampled years match the data recorded in the primary source's reports, which will alleviate some doubt for years where the secondary source is the only resource.
 
+
 ## Dependencies
 
 The availability of data sources is a primary concern with this project. The UCR and US Census Bureau are both undergoing transitions, which may put some APIs in flux. Also, while much of the data has been located, it is not guaranteed that all sources will be uniform in their structure. This could impact the data collection, cleaning, processing, and interpretation steps of the analysis. In the event some of the aforementioned issue arise, backup plans are in place for some of these scenarios.
+
+
+## Methodology
+
+The population data will amount to 10 integers that will be manually recorded. The details and challenges around gathering this data is detailed in the relevant section above. Likewise, the specific challenges around the gathering the police employment data are present in the relevant section above. The data will be recorded manually.
+
+The crime data are archived by month in publically accessible excel files. Each of these monthly files will be aggregated by year and only a limited amount of information will be extracted for analysis. The only fields intended for use are the Offense Type, the year and month portion of the date, and the count of offenses per occurence.
+
+The analysis strategy is to take place over phases. The first phase will process each month of each year individually by grouping all crimes by their type, and their counts will be summed. Each crime will also be given a binary indicator as either violent or non-violent. From here, all crimes will again be aggregated by their violent-indicator in a second phase. Violent crime will be assessed as an independent group from another group that considers overall crime. Once, for instance, all of the numbers for 2018 are aggregated, the month column will be discarded. In the final phase, the resulting 10 data points for violent crime and the 10 for overall crime will be plotted over a time series by their year. Since the research questions center around crime trends over time, a time series is the ideal approach to communicate the findings. 
+
+The manually recorded population and police employment numbers will also be presented as annual numbers. Each will be shown in individual trends, but an additional measure will combine the two into a ratio. The ratio will be presented as the number of employed officers over every 1,000 citizens. For example, 2,000 officers for a population of 1,500,000 people will be recorded as 1.33. The math follows:
+
+>2000/(1500000/1000) = 2000/1500 = 1.33
+
+This ratio aligns with how the Houston Police Department records their ratio and also provide a single number to track over time. Hopefully, this will make the information simpler to digest.
+
 
 ## Sources & References
 * https://www.fbi.gov/services/cjis/ucr/nibrs (accessed 11/6/2019)
