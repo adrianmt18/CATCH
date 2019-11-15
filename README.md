@@ -89,7 +89,7 @@ Unless stated otherwise, the data to be used for this analysis is made available
 
 **[2019 Houston Crime Data](https://www.houstontx.gov/police/cs/xls/NIBRSPublicView.Jan1-Sep30-FINAL.xlsx)**  
 **[2009-2018 Houston Crime Data](https://www.houstontx.gov/police/cs/crime-stats-archives.htm)**  
-**[Future-proof Link for All Houston Crime Data](https://www.houstontx.gov/police/cs/Monthly_Crime_Data_by_Street_and_Police_Beat.htm)**
+**[Future-proof Link for All Houston Crime Data](https://www.houstontx.gov/police/cs/Monthly_Crime_Data_by_Street_and_Police_Beat.htm)**  
 **[Data Dictionary as of 5/9/19](https://www.houstontx.gov/police/cs/NIBRS_Public_Data_Dictionary_050919.pdf)**
 
 | Variable | Data Type | Description |
