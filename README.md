@@ -109,7 +109,8 @@ The data is the Houston police department published data under the NIBRS format.
 
 **[Houston Population Estimates [2010-2018]](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk)**  
 **[Houston Population Estimates [2010-2018] Alternate Source](http://worldpopulationreview.com/us-cities/houston-population/)**  
-**[Source of 2009 Houston Population Estimate](https://www.google.com/publicdata/explore?ds=kf7tgg1uo9ude_&ctype=l&strail=false&bcs=d&nselm=h&met_y=population&scale_y=lin&ind_y=false&rdim=country&idim=place:4835000:4819000&ifdim=country&hl=en&dl=en&ind=false)**
+**[Texas Population Estimates](https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2018/PEPANNRES/0400000US48.16200)**  
+**[Source of 2009 Houston Population Estimate](https://www.google.com/publicdata/explore?ds=kf7tgg1uo9ude_&met_y=population&idim=place:4835000:4819000&hl=en&dl=en)**
 
 The population data was retrieved using the U.S. Censu Bureau's factfinder tool. I opted to use this data because the U.S. Census Bureau is the official and most trusted source for population-based data. This information will be used to contextualize crime statistics by year. As these are the most reliable available estimates, there are minimal concerns of ethical problems with using this data. Information on the data source follows.
 
