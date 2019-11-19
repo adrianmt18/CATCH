@@ -111,7 +111,14 @@ The data is the Houston police department published data under the NIBRS format.
 **[Houston Population Estimates [2010-2018] Alternate Source](http://worldpopulationreview.com/us-cities/houston-population/)**  
 **[Source of 2009 Houston Population Estimate](https://www.google.com/publicdata/explore?ds=kf7tgg1uo9ude_&ctype=l&strail=false&bcs=d&nselm=h&met_y=population&scale_y=lin&ind_y=false&rdim=country&idim=place:4835000:4819000&ifdim=country&hl=en&dl=en&ind=false)**
 
-The population data was retrieved using the U.S. Censu Bureau's factfinder tool. I opted to use this data because the U.S. Census Bureau is the official and most trusted source for population-based data. This information will be used to contextualize crime statistics by year. As these are the most reliable available estimates, there are minimal concerns of ethical problems with using this data.
+The population data was retrieved using the U.S. Censu Bureau's factfinder tool. I opted to use this data because the U.S. Census Bureau is the official and most trusted source for population-based data. This information will be used to contextualize crime statistics by year. As these are the most reliable available estimates, there are minimal concerns of ethical problems with using this data. Information on the data source follows.
+
+>Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2018  
+>Source: U.S. Census Bureau, Population Division  
+>Note:  
+>The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions. See Geographic Terms and Definitions at http://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html for a list of the states that are included in each region and division.
+
+More details on the data source can be found in the text document under the population data folder in this repository.
 
 There are some future concerns with the population data and one concern with the data to be used. The factfinder tool is being phased out and most (potentially not all) data is being moved to [data.census.gov](data.census.gov). However, I was unable to locate the desired information on the new website. As I am not currently able to determine if the data will appear there, I listed an alternative source for the same data for retrieveal purposes only. It is not the source from which analysis is being done. Information regarding the transition can be found [here](https://www.census.gov/data/academy/webinars/2019/transition-data-census.html).
 
@@ -138,7 +145,7 @@ The availability of data sources is a primary concern with this project. The UCR
 
 ## Methodology
 
-The population data will amount to 10 integers that will be manually recorded. The details and challenges around gathering this data is detailed in the relevant section above. Likewise, the specific challenges around the gathering the police employment data are present in the relevant section above. The data will be recorded manually.
+The population data will amount to 10 integers retrieved from the U.S. Census Buerau. The details and challenges around gathering this data are covered in the relevant section above. Likewise, the specific challenges around the gathering the police employment data are present in the relevant section above. The data will be recorded manually.
 
 The crime data are archived by month in publically accessible excel files. Each of these monthly files will be aggregated by year and only a limited amount of information will be extracted for analysis. The only fields intended for use are the Offense Type, the year and month portion of the date, and the count of offenses per occurence.
 
