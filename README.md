@@ -145,7 +145,7 @@ The availability of data sources is a primary concern with this project. The UCR
 
 ## Methodology
 
-The population data will amount to 10 integers retrieved from the U.S. Census Buerau. The details and challenges around gathering this data are covered in the relevant section above. Likewise, the specific challenges around the gathering the police employment data are present in the relevant section above. The data will be recorded manually.
+The population data will amount to 11 integers, 9 unique values retrieved from the U.S. Census Buerau. Since the 2018 estimate is the most recent available, it will also serve as the estimate for 2019. The value for 2009 will be entered manually. The details and challenges around gathering this data are covered in the relevant section above. Likewise, the specific challenges around the gathering the police employment data are present in the relevant section above. The data will be recorded manually.
 
 The crime data are archived by month in publically accessible excel files. Each of these monthly files will be aggregated by year and only a limited amount of information will be extracted for analysis. The only fields intended for use are the Offense Type, the year and month portion of the date, and the count of offenses per occurence.
 
