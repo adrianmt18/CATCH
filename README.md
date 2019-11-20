@@ -105,8 +105,9 @@ Each of the links above (exception, 2019) reference the associated year's UCR cr
 
 | [2009](https://www2.fbi.gov/ucr/cius2009/data/table_78_tx.html) | [2010](https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/tables/table-78/10tbl78tx) | [2011](https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/tables/table-78-state-cuts-2011/table-78-texas) | [2012](https://ucr.fbi.gov/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/78tabledatadecpdf/table-78-state-cuts/table_78_full_time_law_enforcement_employees_texas_by_city_2012.xls) | [2013](https://www.houstontx.gov/police/department_reports/operational_summary/Op_Sum-Oct_2013.pdf)** | [2014](https://ucr.fbi.gov/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/tables/table-78/table-78-by-state/Table_78_Full_time_Law_Enforcement_Employees_Texas_by_Cities_2014.xls) | [2015](https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-78/table-78-state-pieces/table_78_full_time_law_enforcement_employees_texas_by_cities_2015.xls) | [2016](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-26/table-26-state-cuts/table-26-texas.xls) | [2017](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/tables/table-78/table-78-state-cuts/texas.xls) | [2018](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2019](https://www.houstontx.gov/police/department_reports/operational_summary/OCTOBER-2019.NIBRS_Monthly_Operational_Summary_FINIAL_111419.pdf)* |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 5,371 | 5,351 | 5,294 | 5,318 | 5,337 | 5,252 | 5,178 | 5,182 | 5,221 | 5,229 | 5,282 |
 
-The count of police officers will help to contextualize the yearly crime statistics to determine if there is a correlation with either crime or population size. 
+The count of police officers will help to contextualize the yearly crime statistics to determine if there is a correlation with either crime or population size. Numbers published include the count of officers, as well as civilian employees. Only the count of officers will be considered.
 
 > **Notes**:  
 >_* Since there is no UCR published data for 2019, the city of Houston police department's most recent operational summary will serve as the data source._  
@@ -114,7 +115,11 @@ The count of police officers will help to contextualize the yearly crime statist
 
 ### Population Data
 
-Population data will be used to contextualize crime statistics by year
+| 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2,273,771 | 2,280,859 | 2,143,628 | 2,177,273 | 2,180,606 | 2,219,933 | 2,275,221 | 2,334,348 | 2,338,235 | 2,344,966 | 2,325,502 |
+
+Population data will be used to contextualize crime statistics by year.
 
 The UCR reports linked above provide population estimates by year for each city. This will be the population data source used for years 2009-2018. Initially, the U.S. Census Bureau was to be the source for population estimates. However, given that the Census Bureau estimates differ from UCR's, using UCR estimates was deemed to be the most fair and ethical for comparison.
 
