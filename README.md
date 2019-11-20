@@ -87,17 +87,38 @@ Unless stated otherwise, the data to be used for this analysis is made available
 
 ### FBI: UCR Data
 
-[UCR Crime Data ](https://ucr.fbi.gov/crime-in-the-u.s)
+**[UCR Crime Data](https://ucr.fbi.gov/crime-in-the-u.s)**  
+**[UCR FAQ](https://www.ucrdatatool.gov/faq.cfm)**  
+**[Houston Police Monthly Operational Summaries](https://www.houstontx.gov/police/department_reports/department_reports_archives.htm)**  
+The Houston government website has a publicly available archive of monthly operational summaries starting in 2012. Although, there are gaps for numerous months of each year. It is implied that these are the reports reflect data reported to UCR, making them fit for use in the analysis. However, the reports will on be used where UCR reporting has gaps and will be explicitly stated. The UCR database is frozen each fall to generate its reports. Knowing this, and considering the annual numbers reported for police department employment appear to lineup with final numbers for October, operational summary data used will be selected for months available closest to October.
+
+Since the data here is recorded for federal government reporting purposes and is being interpreted in this analysis for that specific data, the ethical ambiguity for using this data is minimized.
 
 **Crime in the United States (by Metropolitan Statistical Area)**
 
-| [2009](https://www2.fbi.gov/ucr/cius2009/data/table_06.html) | [2010](https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/tables/table-6) | [2011](https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/tables/table-6) | [2012](https://ucr.fbi.gov/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/6tabledatadecpdf/table-6) | [2013](https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/6tabledatadecpdf/table-6) | [2014](https://ucr.fbi.gov/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/tables/table-6) | [2015](https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-6) | [2016](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/tables/table-4) | [2017](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/topic-pages/tables/table-6) | [2018](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-6) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [2009](https://www2.fbi.gov/ucr/cius2009/data/table_06.html) | [2010](https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/tables/table-6) | [2011](https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/tables/table-6) | [2012](https://ucr.fbi.gov/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/6tabledatadecpdf/table-6) | [2013](https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/6tabledatadecpdf/table-6) | [2014](https://ucr.fbi.gov/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/tables/table-6) | [2015](https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-6) | [2016](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/tables/table-4) | [2017](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/topic-pages/tables/table-6) | [2018](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-6) | [2019](https://www.houstontx.gov/police/department_reports/operational_summary/OCTOBER-2019.NIBRS_Monthly_Operational_Summary_FINIAL_111419.pdf)* |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+Each of the links above (exception, 2019) reference the associated year's UCR crime data by area. The relevant data here are the total count of each crime type and the aggregate count of their category (violent crime and property crime). Taken together, it is expected the aggregates will comprise the total crime for the year.
 
 **Full-time Law Enforcement Employees (by city)**
 
-| [2009](https://www2.fbi.gov/ucr/cius2009/data/table_78_tx.html) | [2010](https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/tables/table-78/10tbl78tx) | [2011](https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/tables/table-78-state-cuts-2011/table-78-texas) | [2012](https://ucr.fbi.gov/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/78tabledatadecpdf/table-78-state-cuts/table_78_full_time_law_enforcement_employees_texas_by_city_2012.xls) | [2013](https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-78/table-78-cuts/table_78_full_time_law_enforcement_employees_texas_by_city_2013.xls) | [2014](https://ucr.fbi.gov/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/tables/table-78/table-78-by-state/Table_78_Full_time_Law_Enforcement_Employees_Texas_by_Cities_2014.xls) | [2015](https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-78/table-78-state-pieces/table_78_full_time_law_enforcement_employees_texas_by_cities_2015.xls) | [2016](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-26/table-26-state-cuts/table-26-texas.xls) | [2017](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/tables/table-78/table-78-state-cuts/texas.xls) | [2018](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [2009](https://www2.fbi.gov/ucr/cius2009/data/table_78_tx.html) | [2010](https://ucr.fbi.gov/crime-in-the-u.s/2010/crime-in-the-u.s.-2010/tables/table-78/10tbl78tx) | [2011](https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/tables/table-78-state-cuts-2011/table-78-texas) | [2012](https://ucr.fbi.gov/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/78tabledatadecpdf/table-78-state-cuts/table_78_full_time_law_enforcement_employees_texas_by_city_2012.xls) | [2013](https://www.houstontx.gov/police/department_reports/operational_summary/Op_Sum-Oct_2013.pdf)** | [2014](https://ucr.fbi.gov/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/tables/table-78/table-78-by-state/Table_78_Full_time_Law_Enforcement_Employees_Texas_by_Cities_2014.xls) | [2015](https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-78/table-78-state-pieces/table_78_full_time_law_enforcement_employees_texas_by_cities_2015.xls) | [2016](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-26/table-26-state-cuts/table-26-texas.xls) | [2017](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/tables/table-78/table-78-state-cuts/texas.xls) | [2018](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2019](https://www.houstontx.gov/police/department_reports/operational_summary/OCTOBER-2019.NIBRS_Monthly_Operational_Summary_FINIAL_111419.pdf)* |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+The count of police officers will help to contextualize the yearly crime statistics to determine if there is a correlation with either crime or population size. 
+
+> **Notes**:  
+>_* Since there is no UCR published data for 2019, the city of Houston police department's most recent operational summary will serve as the data source._  
+> _** Since Houston is absent from the 2013 UCR table, Houston's operational summary for October 2013 will serve as the data source._
+
+### Population Data
+
+Population data will be used to contextualize crime statistics by year
+
+The UCR reports linked above provide population estimates by year for each city. This will be the population data source used for years 2009-2018. Initially, the U.S. Census Bureau was to be the source for population estimates. However, given that the Census Bureau estimates differ from UCR's, using UCR estimates was deemed to be the most fair and ethical for comparison.
+
+The 2019 report is not yet available, so the 2019 population figure will be pulled from the most recent (October) operational summary for Houston's police department, which also provides a population estimate. The rationale for not using the operational summary estimates for each year is that the department reports to the UCR, who publishes the official final numbers. Their numbers are also the source used in all manner of discussion around crime statistics, not the police department's operational summaries.
 
 ### Crime Data
 
@@ -117,41 +138,7 @@ Unless stated otherwise, the data to be used for this analysis is made available
 | Street Type | Text | Identifiers of street names. {e.g. R=Road, ST=Street, DR=Drive, AVE-Avenue} |
 | Suffix [Streets] | Text | Directional identifiers for streets. {e.g., E=East, W=West, S=South, N=North} |
 
-The data is the Houston police department published data under the NIBRS format. It will be the dataset of choice since it is the same official source reported for use by the FBI. As can be gathered from the data dictionary above, the data contains detailed information regarding crimes commited in the city. Information pertaining to time and location will not be used and there will be no effort to tie the data to any officer beats, criminal records, or any other data sources that may implicate groups or individuals. This will help to minimize ethical concerns with the data that will be processed.
-
-### Population Data
-
-**[Houston Population Estimates [2010-2018]](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk)**  
-**[Houston Population Estimates [2010-2018] Alternate Source](http://worldpopulationreview.com/us-cities/houston-population/)**  
-**[Texas Population Estimates](https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2018/PEPANNRES/0400000US48.16200)**  
-**[Source of 2009 Houston Population Estimate](https://www.google.com/publicdata/explore?ds=kf7tgg1uo9ude_&met_y=population&idim=place:4835000:4819000&hl=en&dl=en)**
-
-The population data was retrieved using the U.S. Censu Bureau's factfinder tool. I opted to use this data because the U.S. Census Bureau is the official and most trusted source for population-based data. This information will be used to contextualize crime statistics by year. As these are the most reliable available estimates, there are minimal concerns of ethical problems with using this data. Information on the data source follows.
-
->Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2018  
->Source: U.S. Census Bureau, Population Division  
->Note:  
->The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions. See Geographic Terms and Definitions at http://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html for a list of the states that are included in each region and division.
-
-More details on the data source can be found in the text document under the population data folder in this repository.
-
-There are some future concerns with the population data and one concern with the data to be used. The factfinder tool is being phased out and most (potentially not all) data is being moved to [data.census.gov](data.census.gov). However, I was unable to locate the desired information on the new website. As I am not currently able to determine if the data will appear there, I listed an alternative source for the same data for retrieveal purposes only. It is not the source from which analysis is being done. Information regarding the transition can be found [here](https://www.census.gov/data/academy/webinars/2019/transition-data-census.html).
-
-The other issue pertains to the population estimate for the year 2009. Since I could not locate an official estimate, I opted to use numbers provided via Google, which rounds out to 2,118,600. Should an U.S. Census Bureau estimate be located at some other time, it is recommended to those looking to replicate this work to use that number instead.
-
-### Police Employment Data
-
-**[Houston Police Employment Records](https://www.houstontx.gov/police/department_reports/department_reports_archives.htm)**  
-**[Secondary Source for Houston Police Employment Data](https://www.governing.com/gov-data/safety-justice/police-officers-employment-data-by-city-department.html)**
-
-The Houston government website has a publicly available archive of monthly operational summaries starting in 2012. For the purposes of this analysis, useful information contained within these reports is the number of paid employees, officer and citizen, as well as population estimates and officer-population ratio statistics. As these appear to be the reports delivered to UCR, they are fit for use in the analysis. The count of police officers will help to contextualize the yearly crime statistics to determine if there is a correlation with either crime or population size. 
-
-It is imporant to note that the UCR database is frozen each fall to generate its reports for two reasons. First, there are gaps for numerous months of each year in the police employment data. Second, the annual numbers reported for police department employment appear to lineup with final numbers for October. Therefore, employment numbers used for each year will be selected for months available closest to October.
-
-Since the data here is recorded for federal government reporting purposes and is being interpreted in this analysis for that specific data, the ethical ambiguity for using this data is minimized.
-
-The secondary data source cites UCR reported data as its source, but also displays employment numbers for years not available in the primary source (2009-2011). A few sampled years match the data recorded in the primary source's reports, which will alleviate some doubt for years where the secondary source is the only resource.
-
+The data here is the Houston police department's published data under the NIBRS format. It will be the dataset of choice since it is the same official source reported for use by the FBI. As can be gathered from the data dictionary above, the data contains detailed information regarding crimes commited in the city. Information pertaining to time and location will not be used and there will be no effort to tie the data to any officer beats, criminal records, or any other data sources that may implicate groups or individuals. This will help to minimize ethical concerns with the data that will be processed.
 
 ## Dependencies
 
@@ -160,11 +147,11 @@ The availability of data sources is a primary concern with this project. The UCR
 
 ## Methodology
 
-The population data will amount to 11 integers, 9 unique values retrieved from the U.S. Census Buerau. Since the 2018 estimate is the most recent available, it will also serve as the estimate for 2019. The value for 2009 will be entered manually. The details and challenges around gathering this data are covered in the relevant section above. Likewise, the specific challenges around the gathering the police employment data are present in the relevant section above. The data will be recorded manually.
+The population data will amount to 11 integers, 10 values UCR reports, and the 2019 value from the police department's operational summary. The values will be entered manually. Likewise, the police employment data, also to be entered manually, will be retrieved from UCR reports and the 2019 operational summary.
 
 The crime data are archived by month in publically accessible excel files. Each of these monthly files will be aggregated by year and only a limited amount of information will be extracted for analysis. The only fields intended for use are the Offense Type, the year and month portion of the date, and the count of offenses per occurence.
 
-The analysis strategy is to take place over phases. The first phase will process each month of each year individually by grouping all crimes by their type, and their counts will be summed. Each crime will also be given a binary indicator as either violent or non-violent. From here, all crimes will again be aggregated by their violent-indicator in a second phase. Violent crime will be assessed as an independent group from another group that considers overall crime. Once, for instance, all of the numbers for 2018 are aggregated, the month column will be discarded. In the final phase, the resulting 10 data points for violent crime and the 10 for overall crime will be plotted over a time series by their year. Since the research questions center around crime trends over time, a time series is the ideal approach to communicate the findings. 
+The analysis strategy is to take place over phases. The first phase will process each month of each year individually by grouping all crimes by their type, and their counts will be summed. Each crime will also be given a binary indicator as either violent or non-violent. From here, all crimes will again be aggregated by their violent-indicator in a second phase. Violent crime will be assessed as an independent group from another group that considers overall crime. Once, for instance, all of the numbers for 2018 are aggregated, the month column will be discarded. In the final phase, the resulting 11 data points for violent crime and the 11 for overall crime will be plotted over a time series by their year. Since the research questions center around crime trends over time, a time series is the ideal approach to communicate the findings. 
 
 The manually recorded population and police employment numbers will also be presented as annual numbers. Each will be shown in individual trends, but an additional measure will combine the two into a ratio. The ratio will be presented as the number of employed officers over every 1,000 citizens. For example, 2,000 officers for a population of 1,500,000 people will be recorded as 1.33. The math follows:
 
