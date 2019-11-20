@@ -90,6 +90,7 @@ Unless stated otherwise, the data to be used for this analysis is made available
 **[UCR Crime Data](https://ucr.fbi.gov/crime-in-the-u.s)**  
 **[UCR FAQ](https://www.ucrdatatool.gov/faq.cfm)**  
 **[Houston Police Monthly Operational Summaries](https://www.houstontx.gov/police/department_reports/department_reports_archives.htm)**  
+
 The Houston government website has a publicly available archive of monthly operational summaries starting in 2012. Although, there are gaps for numerous months of each year. It is implied that these are the reports reflect data reported to UCR, making them fit for use in the analysis. However, the reports will on be used where UCR reporting has gaps and will be explicitly stated. The UCR database is frozen each fall to generate its reports. Knowing this, and considering the annual numbers reported for police department employment appear to lineup with final numbers for October, operational summary data used will be selected for months available closest to October.
 
 Since the data here is recorded for federal government reporting purposes and is being interpreted in this analysis for that specific data, the ethical ambiguity for using this data is minimized.
