@@ -85,6 +85,17 @@ To summarize this section, a nearly 20-year-old assessment found certain policin
 
 Unless stated otherwise, the data to be used for this analysis is made available for use under the U.S. Public Domain under the category of U.S. Government Works, found at [https://www.usa.gov/government-works](https://www.usa.gov/government-works).
 
+### UCR/FBI Data
+
+[2018 UCR Crime Statistics](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-6)
+[UCR Crime Data HUB](https://ucr.fbi.gov/crime-in-the-u.s)
+
+**Full-time Law Enforcement Employees (by city)**
+
+| [2009](https://ucr.fbi.gov/crime-in-the-u.s/2009) | [2010](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2011](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2012](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2013](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2014](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2015](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2016](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | [2017](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/tables/table-78/table-78-state-cuts/texas.xls) | [2018](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78-state-cuts/texas.xls) | 2019 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Locate Table 78|
+
 ### Crime Data
 
 **[Houston Crime Data](https://www.houstontx.gov/police/cs/Monthly_Crime_Data_by_Street_and_Police_Beat.htm)**  
