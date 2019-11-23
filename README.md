@@ -173,5 +173,6 @@ This ratio aligns with how the Houston Police Department records their ratio and
 * https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-mayoral-foes-debate-city-finances-14501858.php (accessed 11/6/2019)
 * https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-6 (accessed 11/6/2019)
 * https://www.ucrdatatool.gov/faq.cfm (accessed 11/7/2019)
+* https://www.citylab.com/equity/2015/08/10-years-later-theres-still-a-lot-we-dont-know-about-where-katrina-survivors-ended-up/401216/
 
 [1] Caeti, T. J. (1999). Houston’s targeted beat program: A quasi-experimental test of police patrol strategies (Doctoral dissertation, Sam Houston State University)
