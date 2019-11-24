@@ -58,6 +58,21 @@ It is important to note that the FBI's UCR definition of violent crime will be a
 | 09A | Murder & Nonnegligent Manslaughter | Person |
 | 120 | Robbery | Property |
 
+Overall crime will be defined as reported violent crime added to reported property crimes. The following categories will be aggregated under property crime.
+
+| UCR Offense Code | Offense Description | Crime Against |
+| :---: | :--- | :--- |
+| 220 | Burglary/Breaking & Entering | Property |
+| 23A | Pocket-picking | Property |
+| 23B | Purse-snatching | Property |
+| 23C | Shoplifting | Property |
+| 23D | Theft From Building | Property |
+| 23E | Theft From Coin-Operated Machine or Device | Property |
+| 23F | Theft From Motor Vehicle  | Property |
+| 23G | Theft of Motor Vehicle Parts or Accessories | Property |
+| 23H | All Other Larceny | Property |
+| 240 | Motor Vehicle Theft | Property |
+
 No coverage of the mayoral race to date has cited any observation that more police has historically induced reduced crime in the city. Buzbee is on record stating that crime is up and that more police officers will address that issue, thereby making the city safer. I interpret that logic would imply an assumption that the officer:population ratio has dropped below some threshold. I intend to let the reported numbers make a case here.
 
 
